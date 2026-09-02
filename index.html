@@ -98,6 +98,7 @@
   .slot{
     border:1.5px dashed var(--ink-soft);padding:34px 30px;text-align:center;
   }
+  .slot.live{border-style:solid;border-color:var(--ink)}
   .slot .slot-tag{
     font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.24em;
     text-transform:uppercase;color:var(--ink-soft);display:block;margin-bottom:14px;
@@ -110,6 +111,7 @@
   .slot .bar .dot{width:12px;height:12px;border-radius:50%;border:1.5px solid var(--ink-soft)}
   .slot .bar .line{flex:1;height:1.5px;background:var(--ink-faint)}
   .slot .bar .t{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--ink-soft)}
+  .slot audio{margin:20px auto 0;max-width:420px;width:100%;display:block}
 
   .ask{margin-top:0}
   .ask p{max-width:620px;color:var(--ink-soft)}
@@ -211,10 +213,12 @@
     <span class="roman">III</span>
     <span class="label">The sample</span>
   </div>
-  <div class="slot">
-    <span class="slot-tag">Promised only when true</span>
-    <p>One minute of one title will play here, with the printed line highlighted as it is read. The verification, audible and visible. First titles are in production. Nothing plays until it's real.</p>
-    <div class="bar" aria-hidden="true"><span class="dot"></span><span class="line"></span><span class="t">0:00 / 1:00</span></div>
+  <div class="slot live">
+    <span class="slot-tag">अधूरे हिसाब &nbsp;·&nbsp; chapter one</span>
+    <p>Forty-five seconds from a title already out on Spotify and Google Play. Synthetic narration, every sentence checked against the printed text, a human signed off before it shipped.</p>
+    <audio controls preload="none">
+      <source src="https://media.katha.syahi.sh/samples/adhoore-hisaab.mp3" type="audio/mpeg">
+    </audio>
   </div>
 
   <div class="section-head">

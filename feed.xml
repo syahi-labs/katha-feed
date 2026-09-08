@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>दहशत / Dahshat</title>
+    <title>Dahshat</title>
     <link>https://katha.syahi.sh</link>
     <description>दहशत — a standalone Hinglish horror anthology. A new self-contained dramatized story every episode, rooted in Indian fear: haunted hostels and havelis, the highway that eats travellers, the night-shift call, the WhatsApp forward that came true. Modern urban horror and old folk horror both, told the way someone scares you across a table at 2am — not formal narration. All voices are synthetic (AI), written with AI assistance, and every episode is edited and approved by a human before release.</description>
     <language>hi</language>
@@ -9,7 +9,7 @@
     <atom:link href="https://katha.syahi.sh/feed.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://media.katha.syahi.sh/dahshat/artwork/cover.jpg</url>
-      <title>दहशत / Dahshat</title>
+      <title>Dahshat</title>
       <link>https://katha.syahi.sh</link>
     </image>
     <itunes:image href="https://media.katha.syahi.sh/dahshat/artwork/cover.jpg" />

@@ -35,5 +35,18 @@
       <itunes:season>1</itunes:season>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>चौदह सीढ़ियाँ</title>
+      <description>A haveli with three rules no outsider is told the reason for. An aunt who has lived there alone for forty years. And a staircase that counts differently on the way up than on the way down. An original story. Contains a missing child and implied captivity.</description>
+      <content:encoded>A haveli with three rules no outsider is told the reason for. An aunt who has lived there alone for forty years. And a staircase that counts differently on the way up than on the way down. An original story. Contains a missing child and implied captivity.</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <link>https://katha.syahi.sh</link>
+      <guid isPermaLink="false">dahshat-ep02-v1</guid>
+      <enclosure url="https://media.katha.syahi.sh/dahshat/ep02.mp3" length="24766893" type="audio/mpeg" />
+      <itunes:duration>17:12</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
